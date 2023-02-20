@@ -6,7 +6,7 @@ We decided that we could use my technical abilities to recreate that app as best
 Over the next just 2 weeks I had to learn to use JavaScript, learn to use React Native and Expo, and create this app in time for our final presentation to real Coca-Cola executives. The rest of the team did not know how to code, but they worked on crafting the final presentation, editing a video version of our presentation, writing deliverables, etc.
 The app was at a presentable state and working by the presentation day, and the demonstration went flawlessly.
 
-The program is written using node.js, React Native, and Expo, with some CSS for stylesheets.
+The program is written using node.js, React Native, and Expo, with CSS for stylesheets.
 App.js is the main script, linked to various app pages and components in the assets folder.
 
 To see the app in action, I have recorded a demo showcasing most of the features that were finished: https://youtu.be/oGrYqYCxIOo
